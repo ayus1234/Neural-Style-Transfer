@@ -61,10 +61,9 @@ The script will display:
 
 ## Notes
 
-- The process may take several minutes depending on your hardware
-- For best results, use images of similar sizes
-- Higher resolution images will require more memory and processing time
-
+- The process may take several minutes depending on your hardware.
+- For best results, use images of similar sizes.
+- Higher resolution images will require more memory and processing time.
 - Supported image formats: JPG, PNG, BMP
 
 ## License
